@@ -5,3 +5,5 @@ How to Run
 First, install Python, then execute the following command:
 
 python WoodBeam.py
+ You can see a demo of the program by below link:
+https://drive.google.com/file/d/1ZtU2wTsGJtKlc0vJodz3Tf-r75YTCXnc/view?usp=sharing
